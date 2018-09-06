@@ -1,6 +1,6 @@
 # LostAndFound
 
-该失物招领系统采用SpringBoot+Mybatis搭建
+该失物招领系统采用SpringBoot+Mybatis搭建，gradle管理包
 
 主要实现的功能为：
 
